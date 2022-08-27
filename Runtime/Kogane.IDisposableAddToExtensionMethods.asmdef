@@ -1,0 +1,16 @@
+{
+    "name": "Kogane.IDisposableAddToExtensionMethods",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b7095b3493701704e9f4ecc32c27bf55"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
